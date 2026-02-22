@@ -19,11 +19,12 @@ I am passionate about Data Analytics, Business Intelligence, and solving real-wo
 - NumPy  
 - Matplotlib  
 
-### 🗄️ Database
+### 🗄️ Database  ( Business Insights)
 - SQL  
 
 ### 📊 Business Intelligence & Tools
-- Power BI  
+- Power BI
+- Tablue
 - Microsoft Excel  
 
 ### 📚 Concepts
