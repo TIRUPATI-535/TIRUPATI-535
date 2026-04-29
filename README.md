@@ -1,4 +1,4 @@
-![logo](https://github.com/TIRUPATI-535/TIRUPATI-535/blob/main/banner.png)
+![logo]([https://github.com/TIRUPATI-535/TIRUPATI-535/blob/main/banner](https://github.com/TIRUPATI-535/TIRUPATI-535/blob/main/banner).png)
 <h3 align="center">Artificial Intelligence And Data Science Student</h3>
 
 ---
