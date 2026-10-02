@@ -42,3 +42,18 @@ I am passionate about Data Analytics, Business Intelligence, and solving real-wo
 - Create Business Insights from Raw Data  
 
 ---
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TIRUPATI-535&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=TIRUPATI-535&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIRUPATI-535&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+---
